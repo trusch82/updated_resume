@@ -1,0 +1,83 @@
+header {
+    font-family:'Helvetica', Courier, monospace;
+    font-size: large;
+    color: rgb(110, 97, 97);
+    border: solid 1px gray;
+    border-radius: 5px;
+    background-color: rgb(223, 223, 223);
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+h3{
+text-transform: uppercase;
+}
+
+section{
+    font-family: 'arial';
+    border: solid 1px gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.main-content{
+display: flex;
+}
+
+#contact-info{
+    color: gray;
+    background-color: aliceblue;
+}
+
+.footer{
+    float: left;
+    border: solid 1px gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#form{
+    background-color: rgb(73, 73, 143);
+    margin-left: 30px;
+    width: 300px;
+}
+
+#about-me{
+    background-color: rgb(114, 114, 163);
+}
+
+#education{
+    background-color: rgb(124, 60, 139);
+    margin-right: 5px;
+}
+
+#skills{
+    background-color: rgb(124, 60, 139);
+}
+
+#experience{
+    background-color: rgb(204, 107, 107);
+    margin-right: 5px;
+}
+
+span{
+    color: red;
+}
+
+a:visited {
+
+color: #b19cd9;
+
+}
+
+a:hover,
+
+a:focus,
+
+a:active {
+
+color: #4169e1;
+
+}
